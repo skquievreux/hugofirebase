@@ -1,0 +1,4 @@
+baseURL = "http://www.quievreux.de/"
+languageCode = "en-us"
+title = "5 Minutesartwork"
+theme = "hugo-nuo"
