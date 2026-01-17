@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hugofirebase
+  description: |
+    Dieses Repository enthält eine Node.js-Anwendung für die Integration mit Firebase-Diensten.[1]
+  annotations:
+    github.com/project-slug: skquievreux/hugofirebase
+spec:
+  type: library
+  lifecycle: experimental
+  owner: guests
