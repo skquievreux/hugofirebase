@@ -6,6 +6,7 @@ metadata:
     Dieses Repository enthält eine Node.js-Anwendung für die Integration mit Firebase-Diensten.[1]
   annotations:
     github.com/project-slug: skquievreux/hugofirebase
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   lifecycle: experimental
